@@ -1,2 +1,4 @@
 /client/node_modules
 /server/server/__pycache__
+/server/quickstart/__pycache__
+/server/server/.env
